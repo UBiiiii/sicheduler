@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>icon.png</file>
+  </qresource>
+  <qresource prefix="refresh">
+    <file>refresh.PNG</file>
+  </qresource>
+  <qresource prefix="settings">
+    <file>settings.png</file>
+  </qresource>
+</RCC>
